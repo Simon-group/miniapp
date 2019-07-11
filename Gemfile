@@ -64,3 +64,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'pry-rails'
 gem 'compass-rails', '3.1.0'
 gem 'sprockets', '3.7.2'
+gem 'materialize-sass', '~> 1.0.0'
+gem 'material_icons'
+gem 'kaminari'
+gem 'devise'
