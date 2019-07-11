@@ -100,8 +100,8 @@ a {
     border-radius: 3px;
     display: inline-block;
   &:hover {
-    border-color: lighten($accent, 15%);
-    color: lighten($accent, 15%);
+    border-color: black;
+    color: black;
   }
 }
 
@@ -178,7 +178,7 @@ header.header {
         margin-left: -4px;
       }
       &:hover ul {
-        color: $accent;
+        color: black;
         display: block;
       }
     }
